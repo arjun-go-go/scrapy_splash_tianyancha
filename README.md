@@ -1,4 +1,8 @@
 # scrapy_splash天眼查爬虫
+
+Splash是一个Javascript渲染服务。它是一个实现了HTTP API的轻量级浏览器，Splash是用Python实现的，同时使用Twisted和QT。Twisted（QT）用来让服务具有异步处理能力，以发挥webkit的并发能力。
+
+
 通过Docker安装splash
 
 从docker hub下载相关镜像文件
