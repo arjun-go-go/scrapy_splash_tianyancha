@@ -15,6 +15,13 @@ SPIDER_MODULES = ['tianyancha_spider.spiders']
 NEWSPIDER_MODULE = 'tianyancha_spider.spiders'
 
 
+LOG_LEVEL = "DEBUG"
+
+# LOG_LEVEL = "INFO"
+# LOG_LEVEL = "WARNING"
+# LOG_FILE = "./tianyan.log"
+
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'tianyancha_spider (+http://www.yourdomain.com)'
 
