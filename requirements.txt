@@ -26,7 +26,7 @@ click==6.7
 constantly==15.1.0
 copyheaders==0.0.1
 croniter==0.3.24
-cryptography==2.1.4
+cryptography==3.2
 cssselect==1.0.1
 db==0.1.1
 decorator==4.1.2
