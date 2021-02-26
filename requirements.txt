@@ -1,5 +1,5 @@
 absl-py==0.2.2
-aiohttp==2.3.10
+aiohttp==3.7.4
 alembic==0.8.10
 aniso8601==1.2.0
 antiorm==1.2.1
