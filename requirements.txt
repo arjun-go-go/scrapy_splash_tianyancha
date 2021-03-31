@@ -59,7 +59,7 @@ jieba==0.39
 Jinja2==2.8.1
 jmespath==0.9.3
 lockfile==0.12.2
-lxml==3.8.0
+lxml==4.6.3
 Mako==1.0.7
 Markdown==2.6.11
 MarkupSafe==1.0
