@@ -108,7 +108,7 @@ Scrapy==1.4.0
 scrapy-deltafetch==1.2.1
 scrapy-magicfields==1.1.0
 scrapy-redis==0.6.8
-scrapy-splash==0.7.2
+scrapy-splash==0.8.0
 scrapyd==1.2.0
 scrapyd-client==1.1.0
 selenium==3.8.0
