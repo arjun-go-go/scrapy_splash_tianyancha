@@ -104,7 +104,7 @@ s3transfer==0.1.13
 scandir==1.7
 scipy==1.1.0
 scrapinghub==2.0.3
-Scrapy==1.4.0
+Scrapy==1.8.1
 scrapy-deltafetch==1.2.1
 scrapy-magicfields==1.1.0
 scrapy-redis==0.6.8
