@@ -65,7 +65,7 @@ Markdown==2.6.11
 MarkupSafe==1.0
 multidict==4.2.0
 neo4j-driver==1.5.3
-numpy==1.14.3
+numpy==1.22.0
 ordereddict==1.1
 pandas==0.23.0
 parsel==1.2.0
