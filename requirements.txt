@@ -46,7 +46,7 @@ GitPython==2.1.10
 graphite-web==1.1.2
 grpcio==1.13.0
 gunicorn==19.3.0
-html5lib==0.9999999
+html5lib==0.999999999
 hyperlink==17.3.1
 idna==2.6
 idna-ssl==1.0.1
