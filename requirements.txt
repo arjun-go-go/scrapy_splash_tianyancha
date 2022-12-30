@@ -43,7 +43,7 @@ gast==0.2.0
 gensim==3.4.0
 gitdb2==2.0.3
 GitPython==2.1.10
-graphite-web==1.1.2
+graphite-web==1.1.10
 grpcio==1.13.0
 gunicorn==19.3.0
 html5lib==0.9999999
